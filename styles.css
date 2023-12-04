@@ -22,3 +22,15 @@ input {
     background-color: yellowgreen;
     text-align: center;
 }
+i {
+    background-color: greenyellow;
+}
+/* .buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80px;
+} */
+#myButton {
+    cursor: pointer;
+}
