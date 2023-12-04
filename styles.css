@@ -5,7 +5,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
 }
 img {
     width: 300px;
@@ -15,4 +15,10 @@ img {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+input {
+    width: 98%;
+    padding: 4px;
+    background-color: yellowgreen;
+    text-align: center;
 }
