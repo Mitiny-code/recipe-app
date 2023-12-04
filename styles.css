@@ -1,3 +1,17 @@
 body {
     background-color: azure;
 }
+.main-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img {
+    width: 320px;
+    height: 300px;
+}
+.content-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
