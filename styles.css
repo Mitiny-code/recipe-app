@@ -34,3 +34,6 @@ i {
 #myButton {
     cursor: pointer;
 }
+#dots {
+    display: none;
+}
