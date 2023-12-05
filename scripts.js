@@ -1,4 +1,4 @@
-const meals = [];
+// const meals = [];
 function myFunction () {
     const dots = document.getElementById("dots");
     const moreText = document.getElementById("more");
