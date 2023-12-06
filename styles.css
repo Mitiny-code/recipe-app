@@ -37,3 +37,9 @@ i {
 #dots {
     display: none;
 }
+#myFavourite {
+    background-color: rgb(14, 17, 9);
+    padding: 4%;
+    margin: 2px;
+    color: aliceblue;
+}
