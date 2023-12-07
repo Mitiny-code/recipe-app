@@ -13,3 +13,18 @@ function myFunction () {
         moreText.style.display = "inline";
     }
 }
+
+const modal = document.getElementById("myModal1");
+const myModalButton = document.getElementById("myModalButton");
+const span = document.getElementsByClassName("close")[0];
+button.onclick = function () {
+    modal.style.display = "block";
+}
+span.onclick = function () {
+    modal.style.display = "none";
+}
+window.onclick = function (event) {
+     if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
