@@ -77,3 +77,8 @@ i {
     cursor: pointer;
 
 }
+.modal-wrapper {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+}
