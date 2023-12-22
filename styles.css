@@ -8,7 +8,7 @@ body {
     margin-bottom: 6px;
 }
 img {
-    width: 300px;
+    width: 330px;
     height: 300px;
 }
 .content-wrapper {
@@ -57,7 +57,7 @@ i {
     background-color: rgba(0, 0, 0, 0.4);
 }
 .modal-content {
-    background-color: azure;
+    background-color: rgb(40, 150, 150);
     margin: 15% auto;
     padding: 20px;
     border: 1px solid black;
@@ -81,4 +81,6 @@ i {
     display: flex;
     flex-direction: row;
     /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* width: fit-content; */
 }
